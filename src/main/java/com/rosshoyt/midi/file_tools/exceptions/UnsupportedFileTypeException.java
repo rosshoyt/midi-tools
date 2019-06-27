@@ -1,4 +1,4 @@
-package midi_file_tools.exceptions;
+package com.rosshoyt.midi.file_tools.exceptions;
 
 public class UnsupportedFileTypeException extends Exception {
 
